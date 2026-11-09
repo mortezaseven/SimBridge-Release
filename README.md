@@ -60,6 +60,6 @@ SimBridge connects two Android smartphones over Bluetooth Classic (RFCOMM) allow
   
 
 ---
-https://myket.ir/app/com.aistudio.simbridge.vxcp
+قابل دانلود از Myket.ir
 
-https://cafebazaar.ir/app/com.aistudio.simbridge.vxcp?l=en
+قابل دانلود از cafebazaar.ir
