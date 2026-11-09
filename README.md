@@ -57,3 +57,9 @@ SimBridge connects two Android smartphones over Bluetooth Classic (RFCOMM) allow
    - Both devices will display a mutual 6-digit confirmation code.
    - Verify that the numbers match, then tap **Confirm & Authorize**.
    - The connection is established! Phone B immediately syncs call logs and SMS conversations.
+  
+
+---
+https://myket.ir/app/com.aistudio.simbridge.vxcp
+
+https://cafebazaar.ir/app/com.aistudio.simbridge.vxcp?l=en
